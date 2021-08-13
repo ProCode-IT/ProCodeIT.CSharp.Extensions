@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 
 namespace ProCodeIT.Extensions.Linq
 {
-    public static class List
+    public static class ListExtensions
     {
         /// <summary>
         /// Aplica a condição de filtragem caso a condição seja verdadeira.
